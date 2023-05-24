@@ -1,0 +1,7 @@
+venv
+data/Essay_Set_Descriptions/*
+data/Training_Materials/*
+.ipynb_checkpoints
+models/__pycache__/
+.DS_Store
+.idea/
