@@ -3,5 +3,7 @@ data/Essay_Set_Descriptions/*
 data/Training_Materials/*
 .ipynb_checkpoints
 models/__pycache__/*.pyc
+code/mysite/grader/migrations/__pycache__/*.pyc
+code/mysite/mysite/__pycache__/*.pyc
 .DS_Store
 .idea/
